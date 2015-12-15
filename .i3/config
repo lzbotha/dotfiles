@@ -172,5 +172,5 @@ bindsym XF86AudioMute exec amixer -q set Master toggle
 bindsym $mod+m exec amixer -q set Master toggle
 
 # Brightness stuff
-bindsym XF86MonBrightnessUp exec xbacklight -inc 15
-bindsym XF86MonBrightnessDown exec xbacklight -dec 15
+bindsym XF86MonBrightnessUp exec xbacklight -inc 5
+bindsym XF86MonBrightnessDown exec xbacklight -dec 5
