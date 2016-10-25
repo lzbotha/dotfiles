@@ -94,4 +94,4 @@ eval $(thefuck --alias)
 export PYTHONPATH="/home/moar/waverbase/lib/py"
 alias waver="ipython ~/waverbase/lib/py/waver_cli/main.py"
 alias python="ipython"
-chuck_cow
+chuck
