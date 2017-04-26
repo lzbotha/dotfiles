@@ -83,12 +83,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# The next line updates PATH for the Google Cloud SDK.
-source '/home/moar/google-cloud-sdk/path.zsh.inc'
-
-# The next line enables shell command completion for gcloud.
-source '/home/moar/google-cloud-sdk/completion.zsh.inc'
-
 eval $(thefuck --alias)
 
 export PYTHONPATH="/home/moar/waverbase/lib/py"
