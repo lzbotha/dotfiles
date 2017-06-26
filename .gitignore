@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.i3
+!.i3status.conf
+!.zshrc
+
+
+# ...even if they are in subdirectories
+!*/
